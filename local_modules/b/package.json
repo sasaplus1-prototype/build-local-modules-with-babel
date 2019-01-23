@@ -1,0 +1,9 @@
+{
+  "name": "b",
+  "description": "b",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "module": "./index.js",
+  "private": true,
+  "sideEffects": false
+}
